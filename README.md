@@ -4,7 +4,7 @@ Aplicação web desenvolvida como parte de um desafio técnico para um processo 
 🚀 Link da Aplicação
 Você pode acessar e testar a aplicação online no seguinte link:
 
-https://email-classifier-desafio.onrender.com ---
+https://email-classifier-ywub.onrender.com
 
 ✨ Funcionalidades
 Interface Web Intuitiva: Design limpo e moderno para uma experiência de usuário agradável.
